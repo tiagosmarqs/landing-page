@@ -102,6 +102,12 @@ section {
 }
 body {
   line-height: 1;
+  background-color: #000;
+  color: #fff;
+}
+a {
+  color: #fff;
+  text-decoration: none;
 }
 ol,
 ul {
@@ -131,7 +137,6 @@ table {
   width: 100%;
   max-width: 1510px;
   padding: 0px 30px;
-  background-color: red;
   display: block;
   margin: 0 auto;
 }

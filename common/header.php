@@ -34,9 +34,9 @@
           </ul>
           <div class="redes-sociais">
             <p>Siga-me:</p>
-            <a href="#">Facebook</a>
-            <a href="#">Instagram</a>
-            <a href="#">Youtube</a>
+            <a href="#">f</a>
+            <a href="#">i</a>
+            <a href="#">y</a>
           </div>
         </div>
       </div>

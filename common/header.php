@@ -43,6 +43,11 @@
             <a href="#"><i class="fa-brands fa-youtube"></i></a>
           </div>
         </div>
+        <div class="nav-bar">
+          <i class= "fa-solid fa-bars-staggered">
+
+          </i>
+        </div>
       </div>
     </div>
   </header>

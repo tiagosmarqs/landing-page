@@ -5,6 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>All in - Treinamentos</title>
   <base href="http://localhost/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"/>
   <link rel="stylesheet" href="resources/css/main.css">
 </head>
 <body>
@@ -34,9 +38,9 @@
           </ul>
           <div class="redes-sociais">
             <p>Siga-me:</p>
-            <a href="#">f</a>
-            <a href="#">i</a>
-            <a href="#">y</a>
+            <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+            <a href="#"><i class="fa-brands fa-youtube"></i></a>
           </div>
         </div>
       </div>

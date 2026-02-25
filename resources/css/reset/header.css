@@ -20,10 +20,35 @@ header .conteudo .menu-lateral .nav {
 }
 header .conteudo .menu-lateral .nav li {
   margin-left: 90px;
+  position: relative;
+}
+header .conteudo .menu-lateral .nav li::after {
+  position: absolute;
+  bottom: -10px;
+  left: 0px;
+  width: 0px;
+  height: 3px;
+  background-color: #fff;
+  content: " ";
+  transition: 0.4s;
+}
+header .conteudo .menu-lateral .nav li:hover:after {
+  width: 100%;
+}
+header .conteudo .menu-lateral .nav li:first-child {
+  margin-left: 0px;
 }
 header .conteudo .menu-lateral .redes-sociais {
   width: max-content;
   margin-left: 80px;
   display: inline-flex;
   justify-content: flex-end;
+  align-items: center;
+}
+
+header .conteudo .menu-lateral .redes-sociais a {
+  margin-left: 15px;
+}
+header .conteudo .menu-lateral .redes-sociais a i {
+  font-size: 20px;
 }

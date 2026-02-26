@@ -1,3 +1,7 @@
+header {
+  position: relative;
+  z-index: 2;
+}
 header .conteudo {
   width: 100%;
   display: inline-flex;

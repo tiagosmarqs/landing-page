@@ -56,4 +56,37 @@
       </div>
     </div>
   </section>
+  <section class="cursos">
+    <div class="container">
+      <div class="conteudo">
+          <h2 class="titulo_principal">Nossos Cursos</h2>
+          <div class="itens">
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/curso-pnl.png" alt="">
+              </div>
+              <h3 class="titulo">PLN - Programação Neuro Linguística</h3>
+            </div>
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/curso-pnl.png" alt="">
+              </div>
+              <h3 class="titulo">PLN - Programação Neuro Linguística</h3>
+            </div>
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/curso-pnl.png" alt="">
+              </div>
+              <h3 class="titulo">PLN - Programação Neuro Linguística</h3>
+            </div>
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/curso-pnl.png" alt="">
+              </div>
+              <h3 class="titulo">PLN - Programação Neuro Linguística</h3>
+            </div>
+          </div>
+      </div>
+    </div>
+  </section>
 </main>

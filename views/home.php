@@ -89,4 +89,104 @@
       </div>
     </div>
   </section>
+  <section class="videos">
+    <div class="container">
+      <div class="conteudo">
+          <h2 class="titulo_principal black">Videos</h2>
+          <div class="itens">
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/video-youtube.png" alt="">
+                <i class="fa-brands fa-youtube"></i>
+              </div>
+              <h3 class="titulo">3 Técnicas poderosas de PNL para você usar agora</h3>
+            </div>
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/video-youtube.png" alt="">
+                <i class="fa-brands fa-youtube"></i>
+
+              </div>
+              <h3 class="titulo">3 Técnicas poderosas de PNL para você usar agora</h3>
+            </div>
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/video-youtube.png" alt="">
+                <i class="fa-brands fa-youtube"></i>
+              </div>
+              <h3 class="titulo">3 Técnicas poderosas de PNL para você usar agora</h3>
+            </div>
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/video-youtube.png" alt="">
+                <i class="fa-brands fa-youtube"></i>
+              </div>
+              <h3 class="titulo">3 Técnicas poderosas de PNL para você usar agora</h3>
+            </div>
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/video-youtube.png" alt="">
+                <i class="fa-brands fa-youtube"></i>
+
+              </div>
+              <h3 class="titulo">3 Técnicas poderosas de PNL para você usar agora</h3>
+            </div>
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/video-youtube.png" alt="">
+                <i class="fa-brands fa-youtube"></i>
+              </div>
+              <h3 class="titulo">3 Técnicas poderosas de PNL para você usar agora</h3>
+            </div>
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/video-youtube.png" alt="">
+                <i class="fa-brands fa-youtube"></i>
+              </div>
+              <h3 class="titulo">3 Técnicas poderosas de PNL para você usar agora</h3>
+            </div>
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/video-youtube.png" alt="">
+                <i class="fa-brands fa-youtube"></i>
+
+              </div>
+              <h3 class="titulo">3 Técnicas poderosas de PNL para você usar agora</h3>
+            </div>
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/video-youtube.png" alt="">
+                <i class="fa-brands fa-youtube"></i>
+              </div>
+              <h3 class="titulo">3 Técnicas poderosas de PNL para você usar agora</h3>
+            </div>
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/video-youtube.png" alt="">
+                <i class="fa-brands fa-youtube"></i>
+              </div>
+              <h3 class="titulo">3 Técnicas poderosas de PNL para você usar agora</h3>
+            </div>
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/video-youtube.png" alt="">
+                <i class="fa-brands fa-youtube"></i>
+
+              </div>
+              <h3 class="titulo">3 Técnicas poderosas de PNL para você usar agora</h3>
+            </div>
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/video-youtube.png" alt="">
+                <i class="fa-brands fa-youtube"></i>
+              </div>
+              <h3 class="titulo">3 Técnicas poderosas de PNL para você usar agora</h3>
+            </div>
+          </div>
+          <div class="botao">
+            <a href="#" class="btn" target="_blank">INSCREVA-SE</a>
+          </div>
+      </div>
+    </div>
+  </section>
 </main>

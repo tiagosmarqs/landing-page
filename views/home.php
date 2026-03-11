@@ -113,6 +113,15 @@
               <div class="img">
                 <img src="../resources/images/video-youtube.png" alt="">
                 <i class="fa-brands fa-youtube"></i>
+
+              </div>
+              <h3 class="titulo">3 Técnicas poderosas de PNL para você usar agora</h3>
+            </div>
+
+            <div class="item">
+              <div class="img">
+                <img src="../resources/images/video-youtube.png" alt="">
+                <i class="fa-brands fa-youtube"></i>
               </div>
               <h3 class="titulo">3 Técnicas poderosas de PNL para você usar agora</h3>
             </div>
@@ -180,7 +189,7 @@
                 <img src="../resources/images/video-youtube.png" alt="">
                 <i class="fa-brands fa-youtube"></i>
               </div>
-              <h3 class="titulo">3 Técnicas poderosas de PNL para você usar agora</h3>
+              <h3 class="titulo">FIM - 3 Técnicas poderosas de PNL para você usar agora</h3>
             </div>
           </div>
           <div class="botao">

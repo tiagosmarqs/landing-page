@@ -198,4 +198,36 @@
       </div>
     </div>
   </section>
+  <section class="contatos">
+    <div class="container">
+      <div class="conteudo">
+        <div class="form">
+          <h2>Fale comigo</h2>
+          <form action="#" method="POST">
+            <input type="text" placeholder="Nome" name="nome">
+            <input type="text" placeholder="Telefone" name="telefone">
+            <textarea name="mensagem" id="" placeholder="Mensagem"></textarea>
+            <button type="submit">Enviar Mensagem</button>
+          </form>
+        </div>
+        <div class="contato">
+          <h2>Contatos</h2>
+          <h3>Telefone:</h3>
+          <a href="#">
+            <i class="fab fa-whatsapp"></i> +55 16 99999-999
+          </a>
+          <h3>E-mail:</h3>
+          <a href="#">
+            <i class="far fa-envelope"></i> contato@allin.com.br
+          </a>
+          <h3>Siga-me:</h3>
+          <div class="redes-sociais">
+            <a href=""><i class="fa-brands fa-facebook-f"></i></a>
+            <a href=""><i class="fa-brands fa-instagram"></i></a>
+            <a href=""><i class="fa-brands fa-youtube"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 </main>

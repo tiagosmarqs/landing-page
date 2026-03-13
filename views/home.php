@@ -196,7 +196,7 @@
         
           </div>
           <div class="botao">
-            <a href="#" class="btn" target="_blank">INSCREVA-SE</a>
+            <a href="https://www.youtube.com" class="btn" target="_blank">INSCREVA-SE</a>
           </div>
       </div>
     </div>

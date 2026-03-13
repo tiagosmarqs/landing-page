@@ -207,7 +207,7 @@
             <input type="text" placeholder="Nome" name="nome">
             <input type="text" placeholder="Telefone" name="telefone">
             <textarea name="mensagem" id="" placeholder="Mensagem"></textarea>
-            <button type="submit">Enviar Mensagem</button>
+            <button class="btn" type="submit">Enviar Mensagem</button>
           </form>
         </div>
         <div class="contato">

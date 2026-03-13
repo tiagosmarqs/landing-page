@@ -129,6 +129,12 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+input,
+textarea,
+button {
+  outline: none;
+  font-family: "Montserrat", sans-serif;
+}
 *,
 *:before,
 *:after {
@@ -150,6 +156,10 @@ table {
   padding: 15px 40px;
   line-height: 1;
   transition: 0.4s;
+  background-color: transparent;
+  color: #fff;
+  text-transform: uppercase;
+  cursor: pointer;
 }
 .btn:hover {
   background-color: #fff;
